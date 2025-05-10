@@ -1,6 +1,6 @@
 Hi there 👋
 
-I keep repositories of resources for the topics I'm interested in;\
+My areas of interest are;\
   📉 Data Analytics, AI & ML\
   📐 Actuarial Science\
   👨‍💻 Computer Science & Software Dev\
