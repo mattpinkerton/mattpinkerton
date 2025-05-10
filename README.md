@@ -1,6 +1,7 @@
 Hi there 👋
 
 My areas of interest are;\
+
   📉 Data Analytics, AI & ML\
   📐 Actuarial Science\
   👨‍💻 Computer Science & Software Dev\
